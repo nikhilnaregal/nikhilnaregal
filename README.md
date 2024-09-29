@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am currently working with ANTICIPATE to help manufacturing companies in their digitalization journey
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilnaregal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nik_hil9) 
 
